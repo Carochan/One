@@ -69,7 +69,19 @@ footer {
 	margin-bottom: 2em;
 }
 #links img {
-	margin-bottom: 3em;
+	margin: 0 auto;
+	display: block;
+	margin-bottom: 2em;
+}
+.link span {
+	margin-top: 1em;
+}
+#stalkme {
+	background: #F7E5DA;
+    width: 800px;
+    margin: auto;
+}
+
 }
 
 
